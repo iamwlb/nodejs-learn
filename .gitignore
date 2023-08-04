@@ -52,3 +52,7 @@ jspm_packages/
 
 # dotenv environment variables file 
 .env
+
+# Ignore OS generated files
+.DS_Store
+**/.DS_Store
